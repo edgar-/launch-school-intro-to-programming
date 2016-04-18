@@ -1,2 +1,2 @@
 # README #
-Work in progress
+Solution to Launch School's Introduction To Programming book exercises
