@@ -1,2 +1,2 @@
 # README #
-Solution to Launch School's exercises
+Solutions to Launch School's exercises

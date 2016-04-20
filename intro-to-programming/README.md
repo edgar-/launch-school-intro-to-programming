@@ -1,2 +1,2 @@
 # README #
-Solution to Introduction To Programming exercises
+Solutions to Introduction To Programming exercises
